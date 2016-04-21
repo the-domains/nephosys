@@ -1,0 +1,28 @@
+name: nephosys
+favicon: null
+layout_spectrum: 0.7691644278820604
+typography_spectrum: 0.8872775002382696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.65484364842996
+  lightness: 0.8458133670501411
+  saturation: 0.13331530010327697
+  rhythmicContrast: 0.6457887284923345
+purpose: []
